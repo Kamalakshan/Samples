@@ -1,0 +1,15 @@
+# Xcode
+.DS_Store
+xcuserdata/
+DerivedData/
+*.xcworkspace
+*.xcuserstate
+
+# Swift Package Manager
+*.swiftpm
+
+# CocoaPods
+Pods/
+
+# Carthage
+Carthage/
